@@ -1,4 +1,4 @@
-# PoC Project 2: HTMX-based CRUD Chat Rooms using only:
+# PoC Project 2: HTMX-based CRUD Chat Rooms:
 
 HTML5 (for structure)
 
