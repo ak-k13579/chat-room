@@ -8,9 +8,7 @@ HTMX (for seamless AJAX requests)
 
 Mocked backend (JS-based in-memory data)
 
-To See Complete Video of the Project View Click on The Link Below:
-
-https://www.webmobilefirst.com/en/screencasts/f78m3k2856k8bl/
+Video Demonstration: https://www.webmobilefirst.com/en/screencasts/f78m3k2856k8bl/
 
 **⚙️ How to Run This Project in VS Code**
 Follow the steps below to get this chat room app running in your local development environment using Visual Studio Code and Live Server:
@@ -72,9 +70,7 @@ All changes happen instantly using HTMX, with no page reloads.
 🧑‍💻 **Author**
 Attaullah Khan Sr. Front End Developer
 
-To See Complete Video of the Project View Click on The Link Below:
-
-https://www.webmobilefirst.com/en/screencasts/f78m3k2856k8bl/
+Video Demonstration: https://www.webmobilefirst.com/en/screencasts/f78m3k2856k8bl/
 
 Portfolio: https://www.attaullahkhanweb.com
 
